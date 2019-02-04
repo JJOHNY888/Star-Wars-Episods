@@ -1,0 +1,11 @@
+img {
+    border-radius: 10px;
+}
+h1 	{
+    text-align: center;
+}
+body {
+	background-image: url(../image/Autosave1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
